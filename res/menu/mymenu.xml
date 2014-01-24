@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+<!--item android:id="@+id/scan" android:title="扫描设备"></item-->
+<item android:id="@+id/share" android:title="共享文件"></item>
+<item android:id="@+id/search" android:title="搜索文件"></item>
+<!--item android:title="允许被发现" android:id="@+id/discoverable"></item-->
+<item android:title="添加设备" android:id="@+id/add_emulator"></item>
+<item android:id="@+id/about" android:title="关于程序"></item>
+</menu>
